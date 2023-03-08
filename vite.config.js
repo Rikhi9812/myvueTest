@@ -6,7 +6,10 @@ import vueJsx from '@vitejs/plugin-vue-jsx'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/myvuetest/',
+  base: (process.env.NODE_ENV === 'poduction') ? '/myvueTest/' : './',
+  build: {
+    outDir: 'docs'
+  },
   plugins: [vue(), vueJsx()],
   resolve: {
     alias: {
