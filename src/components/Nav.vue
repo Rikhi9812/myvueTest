@@ -172,14 +172,14 @@ export default {
   },
   methods: {
     handleScroll (event) {
-      if(window.scrollY >= 400 && window.scrollY < 4056) {
+      if(window.scrollY >= 400 && window.scrollY < 3000) {
         this.work= true;
       } else{
         this.work= false
       }
 
 
-      if(window.scrollY >= 4056 && window.scrollY < 4887) {
+      if(window.scrollY >= 3000  && window.scrollY < 4887) {
         this.aboutme= true;
       } else{
         this.aboutme= false
