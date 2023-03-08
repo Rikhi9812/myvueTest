@@ -13,9 +13,3 @@ export default defineConfig({
     }
   }
 })
-
-module.exports = {
-  outputDir: 'docs',
-  assetsDir: './',
-  publicPath: './',
-}
