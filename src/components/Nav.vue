@@ -179,13 +179,13 @@ export default {
       }
 
 
-      if(window.scrollY >= 4200 && window.scrollY < 5162.72705078125) {
+      if(window.scrollY >= 4056 && window.scrollY < 4887) {
         this.aboutme= true;
       } else{
         this.aboutme= false
       }
 
-      if(window.scrollY >= 5100.72705078125 && window.scrollY < 6049.0908203125) {
+      if(window.scrollY >= 4887 && window.scrollY < 5461) {
         this.getin= true;
       } else{
         this.getin= false
