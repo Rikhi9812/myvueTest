@@ -46,7 +46,7 @@
                             my-2
                             w-[70%]
                             mb-4
-                            ">Front-end developer and UX specialist, I have 14 years of experience designing for web and digital media and have a horizontal approach to the process. I have had the chance to work for some of the biggest companies in Brazil, from ad agencies to software houses.</p>
+                            ">Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis, laborum voluptatem. Obcaecati quia odio nostrum optio quas? Ad expedita, hic laboriosam nesciunt unde quis, aperiam molestiae impedit quisquam magni dolor.</p>
                         <a class="
                             text-center
                             uppercase

@@ -57,28 +57,28 @@
                 text-[1.5rem]
                 ">FONTS</dt>
                 <dd class="
-                text-[0.8rem]
-                ">Bitter, a Google Font by Sol Matas for Huerta Tipográfica.</dd>
+                text-1rem]
+                ">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt odio mollitia laborum quas debitis itaque voluptates, repellendus rerum ducimus possimus! Suscipit laboriosam optio blanditiis ullam eos eveniet necessitatibus inventore! Adipisci.</dd>
                 <dd class="
-                text-[0.8rem]
-                ">Codec Cold, designed by Cosimo Lorenzo Pancini, Francesco Canovaro and Andrea Tartarelli (Zetafonts).</dd>
+                text-1rem]
+                ">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores dolor temporibus, voluptatum ut, inventore harum laboriosam tenetur quam laudantium magni voluptas ratione sapiente. Quod fuga expedita in debitis, libero quis?</dd>
                 <dt class="
                 font-bold
                 text-[1.5rem]
                 ">Test</dt>
                 <dd class="
-                text-[0.8rem]
-                ">Bitter, a Google Font by Sol Matas for Huerta Tipográfica.</dd>
+                text-1rem]
+                ">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Rem modi, aliquid quo earum maiores soluta sed. Aliquam voluptates itaque cumque molestiae necessitatibus, ipsum quas accusamus recusandae rerum, magni adipisci deleniti.</dd>
                 <dd class="
-                text-[0.8rem]
-                ">Codec Cold, designed by Cosimo Lorenzo Pancini, Francesco Canovaro and Andrea Tartarelli (Zetafonts).</dd>
+                text-1rem]
+                ">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minima dolorum aut provident expedita rerum eum quidem eius aperiam quam natus repellendus placeat ipsam voluptatem, sit aliquam quasi nam est. Esse?</dd>
                 </dl>
             <div class="
             flex-1
-            text-[0.8rem]
+            text-[1rem]
             ">
-                <p>I've had a lot of fun and hard work creating and building this site. But I wouldn't be able to accomplish everything I wanted without a lot of inspiration, and help from great online tools.</p>
-                <p>This last section is my way of saying thank you and providing to everyone else a glimpse into the tools and resources that contributed for this new portfolio gain life.</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam commodi odio autem fugiat eum rem culpa beatae laborum laboriosam recusandae animi ex officiis, accusantium ipsam sequi enim. Commodi, tenetur perspiciatis.</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores reprehenderit quam, illo explicabo veritatis repudiandae officia saepe corrupti repellendus consequuntur vero ex commodi ipsum neque accusantium dolore cumque repellat sit?</p>
                 <p>Thanks for visiting.</p>
             </div>
             <figure class="flex-1">
